@@ -1,6 +1,9 @@
 # datahandler(Python)
 
 Handling Missing values in a given data set and imputing them in python.
+
+Install this library using pip in cmd/powershell (ADMIN) ----> pip install datahandler-bhanu
+
 Comes with command line support. Use directly from cmd/powershell by typing python filename.py datafilename.csv and wallah!
 
 PyPi Link -> https://pypi.org/project/datahandler-bhanu/
