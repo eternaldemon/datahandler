@@ -3,7 +3,7 @@
 Handling Missing values in a given data set and imputing them in python.
 Comes with command line support. Use directly from cmd/powershell by typing python filename.py datafilename.csv and wallah!
 
-PyPi Link -> 
+PyPi Link -> https://pypi.org/project/datahandler-bhanu/
 
 Libraries Used --> Pandas,sklearn,sys,numpy
 
